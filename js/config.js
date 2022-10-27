@@ -4,12 +4,12 @@
 // 3.client total fee= contract small fee + your setting fee
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-var FeeReciever = "0xEAc8555E83919Cedc065849b0FDc843bC03EFd4d";
+var FeeReciever = "0x234A61AF716b3AD71815E9ef51B76106ff4B21e1";
 
 
 var BinanceFee=0.005;
-var PolygonFee=0.1;
-var FantomFee=0.1;
+var PolygonFee=0.0000.1;
+var FantomFee=0;
 var RopstenFee=0.00001;
 var HuobiFee=0.01;
 var AvalancheFee=0.1;
